@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Narayan Ghospurkar:
 Hi! I'm Narayan Rajan Ghospurkar, an aspiring AWS & DevOps Engineer passionate about cloud computing, automation, and building scalable solutions.<br>I enjoy learning by doing—deploying applications on AWS, working with Linux, Docker, Kubernetes, and improving CI/CD workflows.<br>Currently exploring real-world cloud projects to strengthen my skills and contribute to open-source.
 
 
